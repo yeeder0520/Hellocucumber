@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hellocucumber</groupId>
-    <artifactId>hellocucumber</artifactId>
+    <artifactId>HelloCucumber</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
