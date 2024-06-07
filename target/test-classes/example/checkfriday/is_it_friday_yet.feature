@@ -3,7 +3,7 @@ Feature: Is it Friday yet?
 
   Scenario Outline: Check if it's Friday
     Given today is "<weekday>"
-    When I ask whether it's Friday yet2
+    When I ask whether it's Friday yet
     Then I should be told "<answer>"
 
     Examples:
